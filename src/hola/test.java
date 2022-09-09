@@ -7,8 +7,9 @@ public class test {
 			int arrayInt[] = {1, 2, 5, 7, 4};
 			
 			System.out.println(arrayInt[3]);
-		System.out.println(arrayInt[0]);
+			System.out.println(arrayInt[0]);
 		
-	}
 
+
+	}
 }
